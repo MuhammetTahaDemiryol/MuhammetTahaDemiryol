@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring, Spring-Boot, Apache Kafka, Docker and so on.**
 
-- 💬 Ask me about **Java, Spring-Boot and Docker**
+- 💬 Ask me about **Java, Spring-Boot and Docker.**
 
 - 📫 How to reach me **SatariusTaha@proton.me**
 
