@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Taha!</h1>
 <h3 align="center">A passionate backend developer from Turkey, I have a BSc in Electronics Engineering.</h3>
 
-- 🔭 I’m currently working on **e-commerce and rent-a-car microservice projects**
+- 🔭 I’m currently working on **e-commerce and rent-a-car microservice projects.**
 
 - 🌱 I’m currently learning **Spring, Spring-Boot, Apache Kafka, Docker and so on.**
 
